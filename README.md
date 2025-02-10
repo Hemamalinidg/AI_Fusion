@@ -18,7 +18,6 @@ Essay Generation:
 
 ChatBot:
 ![ChatBot](https://github.com/user-attachments/assets/748116ee-f774-4a38-b279-ba9911f3bcd0)
-￼
 
 🚀 Features:
 
